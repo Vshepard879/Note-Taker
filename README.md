@@ -12,7 +12,7 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Deployed Website 
-View teh deployed page at https://note-taker-vshepard879.herokuapp.com/notes
+View the deployed page at https://note-taker-vshepard879.herokuapp.com/notes
 
 
 ## Acceptance Criteria
