@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker
 This project is the module 11 Express.js challenge
 
 
