@@ -42,7 +42,7 @@ View the deployed page at https://note-taker-vshepard879.herokuapp.com/notes
 
 ## Screenshot
 `![ScreenShot](/assets/images/screenshot.png)
-`![ScreenShot](/assets/images/screenshot2.png)
+`![ScreenShot2](/assets/images/screenshot2.png)
 
 ## Built With
 * Node.js
